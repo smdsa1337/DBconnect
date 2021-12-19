@@ -1,0 +1,5 @@
+C:\Users\студент\Downloads\DBconnect\obj\Release\DBconnect.csprojAssemblyReference.cache
+C:\Users\студент\Downloads\DBconnect\obj\Release\MainWindow.g.cs
+C:\Users\студент\Downloads\DBconnect\obj\Release\App.g.cs
+C:\Users\студент\Downloads\DBconnect\obj\Release\DBconnect_MarkupCompile.cache
+C:\Users\студент\Downloads\DBconnect\obj\Release\DBconnect_MarkupCompile.lref
